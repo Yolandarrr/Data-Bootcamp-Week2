@@ -1,9 +1,10 @@
-# Week 2 - Data Bootcamp Summary  
 
-## Overview  
+# " Week 2 - Introduction to Tableau & PowerBI "  
+
+## 🌟 Overview  
 In Week 2 of the Data Bootcamp, I expanded my skills in **data visualisation, analytics, and business intelligence tools**. I worked with **Tableau, PowerBI, and real-world datasets** to uncover insights and improve decision-making processes. 
 
-## Key Learnings  
+## 📍 Key Learnings  
 
 ### 1. **Tableau: Versions and Functionality**  
 - Researched and compared different versions of **Tableau** (Viewer, Explorer, Creator, and Enterprise editions).  
